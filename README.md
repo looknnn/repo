@@ -6,7 +6,7 @@
         
             :::lib --
             
-        libx32  --
+        ::libx32  --
         
     :mnt  --
     
@@ -50,10 +50,12 @@
         
     :usr  --
     
-###s###    
+### ###    
 
 #    https://www.webcrawler.com/
+
 #    https://yandex.com/
+
 #    https://kernel.ubuntu.com/~kernel-ppa/mainline/
 
 #    https://www.wolframalpha.com/
@@ -64,9 +66,9 @@
 
 #    https://kernel.ubuntu.com/~kernel-ppa/mainline/
 
-###e###
+### ###
 
-###s###
+### ###
 
 #git config --global user.
 
@@ -120,7 +122,7 @@
 
 #git push origin main
 
-###e###
+### ###
 
 #/etc/vim/gvimrc set lines=25 columns=115
 
@@ -132,7 +134,7 @@
 
 #/usr/share/gtksourceview-4/language-specs/html.lang <property name="globs">*.html;*.htm;*;</property>
 
-###s###
+### ###
 
 #DNS= 2606:4700:4700::1001 2606:4700:4700::1111 2001:4860:4860::8888 2001:4860:4860::8844 2620:fe::9 2620:fe::fe:9 2a09:: 2a11:: 2620:119:53::53 2620:119:35::35 2001:dc7:1000::1 240c:f:1:22::6 2001:de4::101 2001:de4::102 2001:da8:8000:1:202:120:2:100 2001:da8:8000:1:202:120:2:101 2001:da8:ff:305:20c:29ff:fe1f:a92a 2a02:6b8::feed:ff 2a02:6b8:0:1::feed:ff 2a02:6b8::feed:bad 2a02:6b8:0:1::feed:bad 2620:fe::fe 2620:fe::9 2620:0:ccc::2 2620:0:ccd::2 
 
@@ -148,7 +150,7 @@
 
 #LLMNR=yes
 
-###e###
+### ###
 
 
 
