@@ -1,44 +1,44 @@
   ```
   /    --
 
-    :bin --
-        ::dev --   
-            :::lib --
-        ::libx32  --
-    :mnt  --
-        ::root  --
-            :::snap  --     
-        ::sys  -- 
-    :var  --
-        ::boot  -- 
-            :::etc  --
-        ::lib32  --
-    :lost+found  --
-        ::opt  --
-            :::run  --
-        ::srv  --
-    :tmp  --
-        ::cdrom  --
-            :::home  --
-        ::lib64  --
-    :media  --
-        ::proc  --
-            :::sbin  --
-        ::swapfile  --
-    :usr  --
+    ####:bin --
+        #####::dev --   
+            ######:::lib --
+        #####::libx32  --
+    ####:mnt  --
+        #####::root  --
+            ######:::snap  --     
+        #####::sys  -- 
+    ####:var  --
+        #####::boot  -- 
+            ######:::etc  --
+        #####::lib32  --
+    ####:lost+found  --
+        #####::opt  --
+            ######:::run  --
+        #####::srv  --
+    ####:tmp  --
+        #####::cdrom  --
+            ######:::home  --
+        #####::lib64  --
+    ####:media  --
+        #####::proc  --
+            ######:::sbin  --
+        #####::swapfile  --
+    ####:usr  --
     
   ```
 ---
 ***    
 
-          https://www.webcrawler.com/    
-          https://yandex.com/    
-          https://kernel.ubuntu.com/~kernel-ppa/mainline/    
-          https://www.wolframalpha.com/    
-          https://git-scm.com/    
-          https://cdn.kernel.org/pub/linux/kernel/v5.x/    
-          https://md5hashing.net/hash    
-          https://md5calc.com/hash    
+          ***~~https://www.webcrawler.com/~~***    
+          ***~~https://yandex.com/~~***    
+          ***~~https://kernel.ubuntu.com/~kernel-ppa/mainline/~~***    
+          ***~~https://www.wolframalpha.com/~~***    
+          ***~~https://git-scm.com/~~***    
+          ***~~https://cdn.kernel.org/pub/linux/kernel/v5.x/~~***    
+          ***~~https://md5hashing.net/hash~~***    
+          ***~~https://md5calc.com/hash~~***    
 
 ---
 ***
