@@ -64,7 +64,7 @@
 #git branch -M main
 #git remote origin git@github.com:gitLoginName/repo.git
 #git push -u origin main
-#git push origin master
+#git push origin main
 
 ###e###
 #/etc/vim/gvimrc set lines=25 columns=115
