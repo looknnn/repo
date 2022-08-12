@@ -31,14 +31,14 @@
 ---
 ***    
 
-#          https://www.webcrawler.com/
-#          https://yandex.com/
-#          https://kernel.ubuntu.com/~kernel-ppa/mainline/
-#          https://www.wolframalpha.com/
-#          https://git-scm.com/
-#          https://cdn.kernel.org/pub/linux/kernel/v5.x/
-#          https://md5hashing.net/hash
-#          https://md5calc.com/hash
+      (https://www.webcrawler.com/)
+      (https://yandex.com/)
+      (https://kernel.ubuntu.com/~kernel-ppa/mainline/)
+      (https://www.wolframalpha.com/)
+      (https://git-scm.com/)
+      (https://cdn.kernel.org/pub/linux/kernel/v5.x/)
+      (https://md5hashing.net/hash)
+      (https://md5calc.com/hash)
 
 ---
 ***
