@@ -2,12 +2,9 @@
 ## Ubuntu 22.04 LTS Jammy Jellyfish || Ubuntu 20.04 LTS Focal Fossa || Debian 11 Bullseye
 
 ~~/~~   -4-2-1
-
-~~`bin    dev   lib    libx32      mnt   root  snap      sys  var`~~
-
-~~`boot   etc   lib32  lost+found  opt   run   srv       tmp`~~
-
-~~`cdrom  home  lib64  media       proc  sbin  swapfile  usr`~~
+`bin    dev   lib    libx32      mnt   root  snap      sys  var`
+`boot   etc   lib32  lost+found  opt   run   srv       tmp`
+`cdrom  home  lib64  media       proc  sbin  swapfile  usr`
 
 ***
 ---
@@ -16,7 +13,7 @@
 
 ~~[`webcrawler`](https://www.webcrawler.com/)~~
  [` @musicenc `](https://www.musicenc.com/)
- [` #yandex `](https://yandex.com/)
+ [` @yandex `](https://yandex.com/)
  [` @kernel.ubuntu `](https://kernel.ubuntu.com/~kernel-ppa/mainline/)
  [` @wolframalpha `](https://www.wolframalpha.com/)
  [` @git-scm `](https://git-scm.com/)
@@ -429,3 +426,4 @@
    ```
 ***
 ---
+
