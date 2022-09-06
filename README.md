@@ -377,7 +377,7 @@
 ` # Node (or interface) local scope `
 
     ff01::1 ip6-allnode-interface
-    ff01::2 ip6-allrouter
+    ff01::2 ip6-allrouter-interface
 
 ` # link local scope `
 
