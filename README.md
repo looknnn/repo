@@ -350,7 +350,7 @@
     
 ##### /usr/share/gtksourceview-4/language-specs/html.lang ` # gedit `
         <property name="globs">*.powershell;*.*;</property>
-~~sudo dpkg-reconfigure locales~~ ` # en && zh `
+~~sudo dpkg-reconfigure locales~~ ` # en && zh ` ` @im-config `
 
 ##### /boot/grub/grub.cfg && /etc/default/grub ` # sudo update-grub # change.kernal `
 ##### systemctl enable systemd-resolved.service ` # debian `
