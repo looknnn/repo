@@ -281,7 +281,7 @@
     --no-stat 
     
 ##### git rebase branch -i ``` # change fatal: No rebase in progress ```
-##### git rebase add . ``` # run git rebase --continue ```
+##### git rebase add . ` @git rebase --continue `
 ##### git rebase branch -i ``` # noop >> pick ###### || # ```
 ##### git push github branch --force #
 ##### git update-ref -d HEAD ``` # reset.commit ```
@@ -350,9 +350,9 @@
     
 ##### /usr/share/gtksourceview-4/language-specs/html.lang ` # gedit `
         <property name="globs">*.powershell;*.*;</property>
-~~sudo dpkg-reconfigure locales~~ ` # en && zh `
+~~sudo dpkg-reconfigure locales~~ ` # en && zh ` ` @im-config `
 
-##### /boot/grub/grub.cfg && /etc/default/grub ` # sudo update-grub # change.kernal `
+##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
 ##### systemctl enable systemd-resolved.service ` # debian `
 
 ***
