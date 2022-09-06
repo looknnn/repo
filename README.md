@@ -1,10 +1,10 @@
 
 ## Ubuntu 22.04 LTS Jammy Jellyfish || Ubuntu 20.04 LTS Focal Fossa || Debian 11 Bullseye
 
-~~/~~   -4-2-1
-`bin    dev   lib    libx32      mnt   root  snap      sys  var`
-`boot   etc   lib32  lost+found  opt   run   srv       tmp`
-`cdrom  home  lib64  media       proc  sbin  swapfile  usr`
+    /   -4-2-1
+    bin    dev   lib    libx32      mnt   root  snap      sys  var
+    boot   etc   lib32  lost+found  opt   run   srv       tmp
+    cdrom  home  lib64  media       proc  sbin  swapfile  usr
 
 ***
 ---
