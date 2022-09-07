@@ -334,8 +334,7 @@
 
 ## Journal 
 
-##### /etc/vim/gvimrc ` # gvim `
-        set lines=25 columns=115
+##### /etc/vim/gvimrc ` >> set lines=25 columns=115 ` ' # gvim '
       
 ##### sudo apt install
 
@@ -351,6 +350,7 @@
 
 ##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
 ##### systemctl enable systemd-resolved.service ` # debian `
+##### /etc/inputrc  ` >> set bell-style visible ` ` # Ubuntu `
 
 ***
 ---
