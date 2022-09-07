@@ -336,8 +336,7 @@
 
 ##### /etc/vim/gvimrc ` >> set lines=25 columns=115 ` ` # gvim `
 ##### /usr/share/vim/vimrc 
-    
-    set cursorline
+     
     set showmatch
     set hlsearch
     set showcmd
