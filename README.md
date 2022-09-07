@@ -339,11 +339,13 @@
      
     set showmatch
     set hlsearch
+    set incsearch
     set showcmd
     set number
     set mouse=a
     set autoindent
-      
+    set autowrite
+
 ##### sudo apt install
 
         vim vim-gtk kaffeine qbittorrent audacious calc wcalc git gitk  nvidia-cudnn  
