@@ -1,5 +1,5 @@
 
-## Ubuntu 22.04 LTS Jammy Jellyfish || Ubuntu 20.04 LTS Focal Fossa || Debian 11 Bullseye
+## Ubuntu 22.04 LTS Jammy Jellyfish || Debian 11 Bullseye
 
     /   -4-2-1
     bin    dev   lib    libx32      mnt   root  snap      sys  var
@@ -335,6 +335,15 @@
 ## Journal 
 
 ##### /etc/vim/gvimrc ` >> set lines=25 columns=115 ` ` # gvim `
+##### /usr/share/vim/vimrc 
+    
+    set cursorline
+    set showmatch
+    set hlsearch
+    set showcmd
+    set number
+    set mouse=a
+    set autoindent
       
 ##### sudo apt install
 
