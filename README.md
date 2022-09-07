@@ -334,7 +334,7 @@
 
 ## Journal 
 
-##### /etc/vim/gvimrc ` >> set lines=25 columns=115 ` ' # gvim '
+##### /etc/vim/gvimrc ` >> set lines=25 columns=115 ` ` # gvim `
       
 ##### sudo apt install
 
