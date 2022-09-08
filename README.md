@@ -348,9 +348,9 @@
     set autowrite
 
 ##### sudo apt install
-
-        vim vim-gtk kaffeine qbittorrent audacious calc wcalc git gitk nvidia-cudnn gnome-shell-extensions 
- ` debian:: nvidia-detect nvidia-smi bash-completion nvidia-cuda-dev gnome-shell-extension-dashtodock fcitx-googlepinyin fcitx-dbus-status gnome-shell-extension-desktop-icons `
+    
+    vim vim-gtk kaffeine qbittorrent audacious calc wcalc git gitk nvidia-cudnn gnome-shell-extensions 
+ ` debian:: nvidia-detect nvidia-smi bash-completion nvidia-cuda-dev gnome-shell-extension-dashtodock fcitx-googlepinyin fcitx-dbus-status gnome-shell-extension-desktop-icons gnome-shell-extension-autohidetopbar `
  
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### dpkg -l |grep ^rc|awk '{print $2}' |sudo xargs dpkg -P
