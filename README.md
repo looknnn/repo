@@ -351,7 +351,7 @@
     
 ##### /usr/share/gtksourceview-4/language-specs/html.lang ` # gedit `
         <property name="globs">*.powershell;*.*;</property>
-~~sudo dpkg-reconfigure locales~~ ` # en && zh ` ` @im-config `
+~~sudo dpkg-reconfigure locales~~ ` # en && zh ` ` @im-config ` ` /etc/locale.gen >> en_US.UFT-8 UFT-8 `
 
 ##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
 ##### systemctl enable systemd-resolved.service ` # debian `
