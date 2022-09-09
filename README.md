@@ -4,7 +4,7 @@
 - swapfile...boot.../.usr.var.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
  - bin-dev-lib-libx32-mnt-root-snap-sys 
  - etc-lib32-lost+found-opt-run-srv 
-- cdrom-home-lib64-media-proc-sbin  
+ - cdrom-home-lib64-media-proc-sbin  
 ---
 ## Linux Browser Google Chrome && Chromium
 
@@ -339,6 +339,7 @@
     set mouse=a
     set autoindent
     set autowrite
+    set t_Co=256 
 
 ##### sudo apt install
     
