@@ -1,10 +1,10 @@
 
 ## Ubuntu 22.04 LTS Jammy Jellyfish || Debian 11 Bullseye
     
-    swapfile...boot.../.usr.var.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
-    bin-dev-lib-libx32-mnt-root-snap-sys 
-    etc-lib32-lost+found-opt-run-srv 
-    cdrom-home-lib64-media-proc-sbin  
+- swapfile...boot.../.usr.var.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
+ - bin-dev-lib-libx32-mnt-root-snap-sys 
+ - etc-lib32-lost+found-opt-run-srv 
+- cdrom-home-lib64-media-proc-sbin  
 ---
 ## Linux Browser Google Chrome && Chromium
 
@@ -33,7 +33,6 @@
  [` @breed-hackpascal `](https://breed.hackpascal.net/)
  [` @all-linux-sources `](http://mirrors.ustc.edu.cn/help/)
 
-***
 ---
 
 ## Github && Gitlab >> ssh.key && gpg.key
@@ -251,7 +250,6 @@
 ##### git push -uf origin main ``` # gitlab  -u,--set-upstream && -f,--force ``` 
 
 ---
-***
     
 ## Edit.commit
   
@@ -326,8 +324,6 @@
     --edit                --no-commit           --strategy-option=
     --gpg-sign            --rerere-autoupdate 
        
-
-***
 ---
 
 ## Journal 
@@ -360,7 +356,6 @@
 ##### systemctl enable systemd-resolved.service ` # debian `
 ##### /etc/inputrc  ` >> set bell-style visible ` ` # Ubuntu `
 
-***
 ---
 
 ## /etc/hosts
@@ -432,6 +427,5 @@
     LLMNR=yes
     
    ```
-***
 ---
 
