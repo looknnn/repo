@@ -340,6 +340,14 @@
     set autoindent
     set autowrite
     set t_Co=256 
+    
+    if &diff
+        "colorscheme 
+        highlight DiffAdd    cterm=bold ctermfg=12 ctermbg=184 gui=none guifg=bg guibg=white
+        highlight DiffDelete cterm=bold ctermfg=13 ctermbg=153 gui=none guifg=bg guibg=white
+        highlight DiffChange cterm=bold ctermfg=15 ctermbg=17 gui=none guifg=bg guibg=white
+        highlight DiffText   cterm=bold ctermfg=11 ctermbg=none gui=none guifg=bg guibg=white
+    endif
 
 ##### sudo apt install
     
