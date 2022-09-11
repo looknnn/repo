@@ -351,7 +351,7 @@
 
 ##### sudo apt install
     
-    vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk nvidia-cudnn gnome-shell-extensions 
+    vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk gnome-shell-extensions 
  ` debian:: nvidia-detect nvidia-smi bash-completion nvidia-cuda-dev gnome-shell-extension-dashtodock fcitx-googlepinyin fcitx-dbus-status gnome-shell-extension-desktop-icons nvidia-cg-dev `
  
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
