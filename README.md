@@ -1,10 +1,10 @@
 
 ## Ubuntu 22.04 LTS Jammy Jellyfish || Debian 11 Bullseye
     
-- swapfile...boot...efi.../.usr.var.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
+- swapfile...boot...home.../.usr.var.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
  - bin-dev-lib-libx32-mnt-root-snap-sys 
  - etc-lib32-lost+found-opt-run-srv 
- - cdrom-home-lib64-media-proc-sbin  
+ - cdrom-lib64-media-proc-sbin  
 ---
 ## Linux Browser Google Chrome && Chromium
 
