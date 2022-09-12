@@ -33,7 +33,7 @@
  [` @breed-hackpascal `](https://breed.hackpascal.net/)
  [` @all-linux-sources `](http://mirrors.ustc.edu.cn/help/)
  [` @packages-debian `](https://packages.debian.org/)
- [` @gnu-grub `](https://www.gnu.org/)
+ [` @gnu-grub `](https://ftp.gnu.org/gnu/)
 
 ---
 
