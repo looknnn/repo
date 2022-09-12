@@ -14,7 +14,7 @@
  [` @kernel.ubuntu `](https://kernel.ubuntu.com/~kernel-ppa/mainline/)
  [` @wolframalpha `](https://www.wolframalpha.com/)
  [` @git-scm `](https://git-scm.com/)
- [` @CdnLinuxKernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/)
+ [` @cdn-linux-kernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/)
  
  [` @md5hashing `](https://md5hashing.net/)
  [` @md5calc `](https://md5calc.com/)
@@ -34,6 +34,7 @@
  [` @all-linux-sources `](http://mirrors.ustc.edu.cn/help/)
  [` @packages-debian `](https://packages.debian.org/)
  [` @gnu-grub `](https://ftp.gnu.org/gnu/)
+ [` @tracker-debian-kernel `](https://tracker.debian.org/pkg/linux)
 
 ---
 
