@@ -14,7 +14,7 @@
  [` @kernel.ubuntu `](https://kernel.ubuntu.com/~kernel-ppa/mainline/)
  [` @wolframalpha `](https://www.wolframalpha.com/)
  [` @git-scm `](https://git-scm.com/)
- [` @CdnLinuxKernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/)
+ [` @cdn-linux-kernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/)
  
  [` @md5hashing `](https://md5hashing.net/)
  [` @md5calc `](https://md5calc.com/)
@@ -34,6 +34,7 @@
  [` @all-linux-sources `](http://mirrors.ustc.edu.cn/help/)
  [` @packages-debian `](https://packages.debian.org/)
  [` @gnu-grub `](https://ftp.gnu.org/gnu/)
+ [` @tracker-debian-kernel `](https://tracker.debian.org/pkg/linux)
 
 ---
 
@@ -358,8 +359,8 @@
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### dpkg -l |grep ^rc|awk '{print $2}' |sudo xargs dpkg -P
     
-##### /usr/share/gtksourceview-4/language-specs/html.lang ` # gedit `
-        <property name="globs">*.powershell;*.*;</property>
+##### /usr/share/gtksourceview-4/language-specs/powershell.lang ` # gedit `
+        <property name="globs">*.ps1;*.psm1;*.psd1;*.*</property>
 ~~sudo dpkg-reconfigure locales~~ ` # en && zh ` ` @im-config ` ` # /etc/locale.gen >> en_GB.UFT-8 UFT-8 `
 
 ##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
