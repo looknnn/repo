@@ -1,7 +1,7 @@
 
 ## Ubuntu 22.04 LTS Jammy Jellyfish || Debian 11 Bullseye
     
-- XFS::swapfile...efi.../.boot.usr.var.home.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
+- swapfile...efi.../.boot.usr.var.home.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
  - bin-dev-lib-libx32-mnt-root-snap-sys 
  - etc-lib32-lost+found-opt-run-srv 
  - cdrom-lib64-media-proc-sbin  
@@ -353,7 +353,7 @@
 
 ##### sudo apt install
     
-    vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk gnome-shell-extensions 
+    vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk 
  ` debian:: nvidia-detect nvidia-smi bash-completion gnome-shell-extension-dashtodock fcitx-googlepinyin fcitx-dbus-status gnome-shell-extension-desktop-icons nvidia-cg-dev fcitx-table-wubi wget `
  
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
