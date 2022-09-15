@@ -351,10 +351,11 @@
         highlight DiffText   cterm=bold ctermfg=11 ctermbg=none gui=none guifg=bg guibg=white
     endif
 
-##### sudo apt install
+##### sudo apt install \
     
-    vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk 
- ` debian::fcitx nvidia-detect nvidia-smi bash-completion gnome-shell-extension-dashtodock fcitx-googlepinyin fcitx-dbus-status gnome-shell-extension-desktop-icons nvidia-cg-dev fcitx-table-wubi wget `
+    vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk \
+    fcitx fcitx-googlepinyin fcitx-dbus-status fcitx-table-wubi wget bash-completion gnome-shell-extension-dashtodock gnome-shell-extension-desktop-icons \
+    nvidia-detect nvidia-smi nvidia-cg-dev
  
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### dpkg -l |grep ^rc|awk '{print $2}' |sudo xargs dpkg -P
