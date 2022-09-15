@@ -36,6 +36,7 @@
  [` @gnu-grub `](https://ftp.gnu.org/gnu/)
  [` @tracker-debian-kernel `](https://tracker.debian.org/pkg/linux)
  [` @virtualbox `](https://download.virtualbox.org/virtualbox/)
+ [` @kali-tools `](https://www.kali.org/tools/)
 
 ---
 
