@@ -1,5 +1,5 @@
 
-## Ubuntu 22.04 LTS Jammy Jellyfish || Debian 11 Bullseye
+## CentOS Stream 9 || Debian 11 Bullseye
     
 - swapfile...efi.../.boot.usr.var.home.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
  - bin-dev-lib-libx32-mnt-root-snap-sys 
