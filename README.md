@@ -368,7 +368,7 @@
  
 ##### yum install \
     
-    epel-next-release.noarch
+    epel-next-release.noarch afftools 
 
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
