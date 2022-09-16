@@ -334,7 +334,7 @@
 ## Journal 
 
 ##### /etc/vim/gvimrc ` >> set lines=25 columns=115 ` ` # gvim `
-##### /usr/share/vim/vimrc 
+##### /usr/share/vim/vimrc || ` @/etc/vimrc #centos `
      
     set showmatch
     set hlsearch
