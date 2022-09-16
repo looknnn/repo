@@ -367,6 +367,7 @@
     nvidia-detect nvidia-smi nvidia-cg-dev
  
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
 ##### dpkg -l |grep ^rc|awk '{print $2}' |sudo xargs dpkg -P
     
 ##### /usr/share/gtksourceview-4/language-specs/powershell.lang ` # gedit `
