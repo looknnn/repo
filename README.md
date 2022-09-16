@@ -366,6 +366,10 @@
     gnome-shell-extension-dashtodock gnome-shell-extension-desktop-icons \
     nvidia-detect nvidia-smi nvidia-cg-dev
  
+##### yum install \
+    
+    epel-next-release.noarch
+
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
 ##### dpkg -l |grep ^rc|awk '{print $2}' |sudo xargs dpkg -P
