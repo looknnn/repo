@@ -380,7 +380,7 @@
 
 ##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
 ##### systemctl enable systemd-resolved.service ` # debian `
-##### /etc/inputrc  ` >> set bell-style visible ` ` # Ubuntu `
+##### /etc/gmd/custom.conf  @ WaylandEnable=false # fedora
 
 ---
 
