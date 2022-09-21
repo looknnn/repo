@@ -368,7 +368,7 @@
  
 ##### yum install \
     
-    epel-next-release.noarch afftools 
+    epel-next-release.noarch afftools gnome-shell-extension-dash-to-dock.noarch
 
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
