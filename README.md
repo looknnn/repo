@@ -41,6 +41,7 @@
  [` @stream-centos `](http://mirror.stream.centos.org/)
  [` @packages-for-linux-and-unix `](https://pkgs.org/)
  [` mirror-status-centos `](https://mirror-status.centos.org/)
+ [` @google-crx `](https://crxdl.com/)
 
 ---
 
