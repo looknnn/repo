@@ -32,7 +32,7 @@
  
  [` @breed-hackpascal `](https://breed.hackpascal.net/)
  [` @all-linux-sources `](http://mirrors.ustc.edu.cn/help/)
- `# deb http://security.debian.org/debian-security bullseye-security main contrib non-free`
+ [` @debian-security `](https://www.debian.org/security/)
  [` @packages-debian `](https://packages.debian.org/)
  [` @gnu-grub `](https://ftp.gnu.org/gnu/)
  [` @tracker-debian-kernel `](https://tracker.debian.org/pkg/linux)
