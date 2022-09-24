@@ -363,7 +363,7 @@
     vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk \
     fcitx fcitx-table-compose fcitx-googlepinyin fcitx-dbus-status fcitx-table-wubi fcitx-table-wubi-large \
     wget bash-completion bash-static bash-builtins \
-    basex basez base58 \
+    basex basez base58 obs-studio \
     gnome-shell-extension-dashtodock gnome-shell-extension-desktop-icons \
     nvidia-detect nvidia-smi nvidia-cg-dev
  
