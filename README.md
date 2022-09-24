@@ -1,5 +1,5 @@
 
-## CentOS Stream 9 || Debian 11 Bullseye
+## RedHat || Debian 11 Bullseye
     
 - swapfile...efi.../.boot.usr.var.home.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
  - bin-dev-lib-libx32-mnt-root-snap-sys 
