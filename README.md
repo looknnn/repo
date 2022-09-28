@@ -158,7 +158,6 @@
 
 ##### gpg --send-keys xxxxxxxxxxx
 ##### git config --global commit.gpgsign true
-##### gpg --list-keys
 ##### git config --global user.signingkey key
 ##### git ls-files
     
@@ -208,7 +207,6 @@
        
     stage    stash    status
     
-##### git add README.md
 ##### git commit -S -m first.commit ``` # -m,--message= && -S,--gpg-sign ```
     
     --ahead-behind         --interactive          --quiet 
