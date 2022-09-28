@@ -42,7 +42,8 @@
  [` mirror-status-centos `](https://mirror-status.centos.org/)
  [` @google-crx `](https://crxdl.com/)
  [` @rocky `](https://rockylinux.org/)
- [`@alma `](https://almalinux.org/)
+ [` @alma `](https://almalinux.org/)
+ [` @distrowatch `](https://distrowatch.com/)
 
 ---
 
