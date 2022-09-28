@@ -1,9 +1,9 @@
 
 ## RedHat || Debian 11 Bullseye
     
-- swapfile...efi.../.boot.usr.var.home.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
+- swapfile...efi.../.boot.home.usr.var.opt.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
  - bin-dev-lib-libx32-mnt-root-snap-sys 
- - etc-lib32-lost+found-opt-run-srv 
+ - etc-lib32-lost+found-run-srv 
  - cdrom-lib64-media-proc-sbin  
 ---
 ## Linux Browser Google Chrome && Chromium
