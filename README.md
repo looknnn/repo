@@ -365,7 +365,7 @@
     fcitx fcitx-table-compose fcitx-googlepinyin fcitx-dbus-status fcitx-table-wubi fcitx-table-wubi-large \
     wget bash-completion bash-static bash-builtins \
     basex basez base58 obs-studio \
-    gnome-shell-extension-dashtodock gnome-shell-extension-desktop-icons \
+    gnome-shell-extension-dashtodock \
     nvidia-detect nvidia-smi nvidia-cg-dev \
     apt-listbugs apt-listchanges libpam-tmpdir opendnssec
  
