@@ -41,7 +41,7 @@
  [` @packages-for-linux-and-unix `](https://pkgs.org/)
  [` mirror-status-centos `](https://mirror-status.centos.org/)
  [` @google-crx `](https://crxdl.com/)
- [` @rocky `](https://rockylinux.org/)
+ [` @rocky `](https://dl.rockylinux.org/pub/rocky/)
  [` @alma `](https://almalinux.org/)
  [` @distrowatch `](https://distrowatch.com/)
  [` @freebsd `](https://www.freebsd.org/)
