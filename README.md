@@ -1,5 +1,5 @@
 
-## RedHat || Debian 11 Bullseye
+## FreeBSD || Debian 11 Bullseye
     
 - swapfile...efi.../.boot.home.usr.var.opt.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
 
