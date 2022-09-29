@@ -44,6 +44,7 @@
  [` @rocky `](https://rockylinux.org/)
  [` @alma `](https://almalinux.org/)
  [` @distrowatch `](https://distrowatch.com/)
+ [` @freebsd `](https://www.freebsd.org/)
 
 ---
 
