@@ -384,7 +384,7 @@
 
 ##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
 ##### systemctl enable systemd-resolved.service ` # debian `
-##### /etc/gmd/custom.conf  @ WaylandEnable=false # fedora
+##### /etc/gmd/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
 
 ---
 
