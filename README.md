@@ -391,7 +391,7 @@
     Legacy system： /boot/grub2/grub.cfg
 
 ##### systemctl enable systemd-resolved.service ` # debian `
-##### /etc/gmd/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
+##### /etc/gdm/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
 ##### `@ip link set dev virnetcard down @ip link delete virnetcard`
 
 ---
