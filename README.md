@@ -371,7 +371,10 @@
  
 ##### yum install \
     
-    epel-next-release.noarch afftools gnome-shell-extension-dash-to-dock.noarch gnome-shell-extension-apps-menu.noarch
+    epel-next-release.noarch afftools \
+    gnome-shell-extension-dash-to-dock.noarch \
+    gnome-shell-extension-apps-menu.noarch \
+    fastfetch-bash-completion.noarch
 
 ##### yum groupinstall "Server with GUI" ` @systemctl set-default graphical.target `
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
