@@ -394,6 +394,7 @@
 ##### /etc/gdm/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
 ##### `@ip link set dev virnetcard down @ip link delete virnetcard`
 ##### ~/.bashrc ` @PS1="\[\e[1;32m\][\A \[\e[1;33m\]\u\[\e[35m\]@\h\[\e[1;31m\] \W\[\e[1;32m\]]\[\e[0m\]\\$" `
+##### /root/.bashrc ` @PS1="\[\e[31;1m\][\[\e[32;1m\]\u\[\e[33;1m\]@\[\e[35;1m\]\h\[\e[36;1m\]:\[\e[32;1m\]\w\[\e[31;1m\]]\[\e[33;1m\]\$ \[\e[0m\]" `
 
 ---
 
