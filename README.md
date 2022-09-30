@@ -9,7 +9,7 @@
 ~~[`webcrawler`](https://www.webcrawler.com/)~~
  [` @musicenc `](https://www.musicenc.com/)
  [` @yandex `](https://yandex.com/)
- [` @kernel.ubuntu `](https://kernel.ubuntu.com/~kernel-ppa/mainline/)
+ [` @kernel.org `](https://www.kernel.org/)
  [` @wolframalpha `](https://www.wolframalpha.com/)
  [` @git-scm `](https://git-scm.com/)
  [` @cdn-linux-kernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/)
@@ -39,7 +39,7 @@
  
  [` @stream-centos `](http://mirror.stream.centos.org/)
  [` @packages-for-linux-and-unix `](https://pkgs.org/)
- [` mirror-status-centos `](https://mirror-status.centos.org/)
+ [` @mirror-status-centos `](https://mirror-status.centos.org/)
  [` @google-crx `](https://crxdl.com/)
  [` @rocky `](https://dl.rockylinux.org/pub/rocky/)
  [` @alma `](https://almalinux.org/)
