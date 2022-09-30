@@ -382,7 +382,11 @@
         <property name="globs">*.ps1;*.psm1;*.psd1;*.*</property>
 ~~sudo dpkg-reconfigure locales~~ ` # en && zh ` ` @im-config ` ` # /etc/locale.gen >> en_GB.UFT-8 UFT-8 `
 
-##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
+##### ` @sudo update-grub # change.kernal `
+
+    UEFI-based system：grub2-mkconfig -o /boot/efi/EFI/centos/grub.cfg
+    Legacy system： /boot/grub2/grub.cfg
+
 ##### systemctl enable systemd-resolved.service ` # debian `
 ##### /etc/gmd/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
 ##### `@ip link set dev virnetcard down @ip link delete virnetcard`
