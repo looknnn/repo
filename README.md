@@ -385,6 +385,7 @@
 ##### /boot/grub/grub.cfg && /etc/default/grub ` @sudo update-grub # change.kernal `
 ##### systemctl enable systemd-resolved.service ` # debian `
 ##### /etc/gmd/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
+##### `@ip link set dev virnetcard down @ip link delete virnetcard`
 
 ---
 
