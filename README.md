@@ -393,7 +393,7 @@
 ##### systemctl enable systemd-resolved.service ` # debian `
 ##### /etc/gdm/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
 ##### `@ip link set dev virnetcard down @ip link delete virnetcard`
-##### ~/.bashrc ` @PS1="\[\e[1;32m\][\t \[\e[1;33m\]\u\[\e[35m\]@\h\[\e[1;31m\] \W\[\e[1;32m\]]\[\e[0m\]\\$" `
+##### ~/.bashrc ` @PS1="\[\e[1;32m\][\A \[\e[1;33m\]\u\[\e[35m\]@\h\[\e[1;31m\] \W\[\e[1;32m\]]\[\e[0m\]\\$" `
 
 ---
 
