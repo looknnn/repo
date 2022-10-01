@@ -365,7 +365,7 @@
     wget bash-completion bash-static bash-builtins \
     basex basez base58 obs-studio \
     gnome-shell-extension-dashtodock \
-    nvidia-detect nvidia-smi nvidia-cg-dev \
+    nvidia-detect nvidia-smi \
     apt-listbugs apt-listchanges libpam-tmpdir opendnssec
  
 ##### yum install \
