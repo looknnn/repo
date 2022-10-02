@@ -1,10 +1,10 @@
 
 ## FreeBSD || Debian 11 Bullseye
     
-- swapfile...efi.../.boot.home.usr.var.opt.tmp ` # /etc/sysctl.conf @vm.swappiness=60 `
+- swapfile...efi.../.boot.home.usr.var.opt.tmp ` # /etc/sysctl.conf @vm.swappiness=60  #sysctl -p `
 
 ---
-## Linux Browser Google Chrome && Chromium
+## Linux Browser Google Chrome & Firefox
 
 ~~[`webcrawler`](https://www.webcrawler.com/)~~
  [` @musicenc `](https://www.musicenc.com/)
@@ -47,7 +47,7 @@
 
 ---
 
-## Github && Gitlab >> ssh.key && gpg.key
+## Github | Gitlab >> ssh.key & gpg.key
 
 ##### git config --global user. ``` # set.user..... ```
     
