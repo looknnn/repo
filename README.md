@@ -360,13 +360,12 @@
 
 ##### sudo apt install \
     
-    vim vim-gtk vim-nox vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk \
+    vim vim-gtk vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk \
     fcitx fcitx-table-compose fcitx-googlepinyin fcitx-dbus-status fcitx-table-wubi fcitx-table-wubi-large \
     wget bash-completion bash-static bash-builtins \
     basex basez base58 obs-studio \
     gnome-shell-extension-dashtodock \
-    nvidia-detect nvidia-smi \
-    apt-listbugs apt-listchanges libpam-tmpdir opendnssec
+    libpam-tmpdir opendnssec
  
 ##### yum install \
     
