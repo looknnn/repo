@@ -389,6 +389,7 @@
     Legacy system： /boot/grub2/grub.cfg
 
 ##### systemctl enable systemd-resolved.service ` # debian `
+##### systemctl disable accounts-daemon.service avahi-daemon.service ` #centos `
 ##### /etc/gdm/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
 ##### `@nmcli device delete virbr0`
 ##### ~/.bashrc ` @PS1="\[\e[1;32m\][\A \[\e[1;33m\]\u\[\e[35m\]@\h\[\e[1;31m\] \W\[\e[1;32m\]]\[\e[0m\]\\$ " `
