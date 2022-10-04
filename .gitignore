@@ -13,3 +13,4 @@
 # Force include portal SupportFiles
 #!Model/Portal/*/SupportFiles/[Bb]in/
 #!Model/Portal/PortalTemplates/*/SupportFiles/[Bb]in
+./xterm-color-table.png
