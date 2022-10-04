@@ -355,7 +355,7 @@
         highlight DiffAdd    cterm=bold ctermfg=27 ctermbg=184 gui=none guifg=bg guibg=white
         highlight DiffDelete cterm=bold ctermfg=55 ctermbg=153 gui=none guifg=bg guibg=white
         highlight DiffChange cterm=bold ctermfg=92 ctermbg=107 gui=none guifg=bg guibg=white
-        highlight DiffText   cterm=bold ctermfg=34 ctermbg=none
+        highlight DiffText   cterm=bold ctermfg=34 ctermbg=241
 
     endif
 
