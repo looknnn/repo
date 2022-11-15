@@ -386,8 +386,8 @@
 
 ##### ` @sudo update-grub # change.kernal `
 
-    UEFI-based system：grub2-mkconfig -o /boot/efi/EFI/centos/grub.cfg
-    Legacy system： /boot/grub2/grub.cfg
+    UEFI-based system:grub2-mkconfig -o /boot/efi/EFI/centos/grub.cfg
+    Legacy system:/boot/grub2/grub.cfg
 
 ##### systemctl enable systemd-resolved.service ` # debian `
 ##### systemctl disable accounts-daemon.service avahi-daemon.service ` #centos `
