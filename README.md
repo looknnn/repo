@@ -396,7 +396,7 @@
 ##### ~/.bashrc ` @PS1="\[\e[1;32m\][\A \[\e[1;33m\]\u\[\e[35m\]@\h\[\e[1;31m\] \W\[\e[1;32m\]]\[\e[0m\]\\$ " `
 ##### /root/.bashrc ` @PS1="\[\e[31;1m\][\[\e[32;1m\]\u\[\e[33;1m\]@\[\e[35;1m\]\h\[\e[36;1m\]:\[\e[32;1m\]\W\[\e[31;1m\]]\[\e[33;1m\]\$ \[\e[0m\]" `
 ##### /etc/modprobe.d/blacklist-nouveau.conf @options nouveau modeset=1 | 0  @#blacklist nouveau #sudo dracut --force #enable nouveau lsmod|grep nouveau
-
+##### yum remove $(rpm -qa | grep kernel | grep -v $(uname -r))
 ---
 
 ## /etc/hosts
