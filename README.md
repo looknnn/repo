@@ -370,7 +370,7 @@
  
 ##### yum install \
     
-    epel-next-release.noarch afftools \
+    epel-next-release.noarch afftools pavucontrol \
     gnome-shell-extension-dash-to-dock.noarch \
     gnome-shell-extension-apps-menu.noarch \
     fastfetch-bash-completion.noarch im-chooser.x86_64
