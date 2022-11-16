@@ -359,7 +359,7 @@
 
     endif
 
-##### sudo apt install \
+##### sudo apt install
     
     vim vim-gtk vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk traceroute locate  mtr \
     fcitx fcitx-table-compose fcitx-googlepinyin fcitx-dbus-status fcitx-table-wubi fcitx-table-wubi-large \
@@ -368,9 +368,9 @@
     gnome-shell-extension-dashtodock \
     libpam-tmpdir opendnssec
  
-##### yum install \
+##### yum install
     
-    epel-next-release.noarch afftools pavucontrol \
+    epel-next-release afftools pavucontrol \
     gnome-shell-extension-dash-to-dock.noarch \
     gnome-shell-extension-apps-menu.noarch \
     fastfetch-bash-completion.noarch im-chooser.x86_64
