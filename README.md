@@ -29,7 +29,7 @@
  ` @ TkIySEk0RFRISVhTNjJETEZaV1hHMkpPTU5YVzJMMk5ONTJHUVpMU01KWFdDNFRFRjVCREtOUlFKVVdVRVQyTklKQ1ZFTDNUT1ZZSApBMzNTT1FGQT09PT0K `
  
  [` @breed-hackpascal `](https://breed.hackpascal.net/)
- [` @all-linux-sources `](http://mirrors.ustc.edu.cn/help/)
+ [` @all-linux-mirrors `](http://mirrors.ustc.edu.cn/help/)
  [` @debian-security `](https://www.debian.org/security/)
  [` @packages-debian `](https://packages.debian.org/)
  [` @gnu-grub `](https://ftp.gnu.org/gnu/)
