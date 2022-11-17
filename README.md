@@ -370,7 +370,7 @@
  
 ##### yum install
     
-    epel-next-release afftools pavucontrol \
+    epel-next-release afftools pavucontrol simplescreenrecorder \
     gnome-shell-extension-dash-to-dock.noarch \
     gnome-shell-extension-apps-menu.noarch \
     fastfetch-bash-completion.noarch im-chooser.x86_64
