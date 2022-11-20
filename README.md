@@ -397,6 +397,7 @@
 ##### /root/.bashrc ` @PS1="\[\e[31;1m\][\[\e[32;1m\]\u\[\e[33;1m\]@\[\e[35;1m\]\h\[\e[36;1m\]:\[\e[32;1m\]\W\[\e[31;1m\]]\[\e[33;1m\]\$ \[\e[0m\]" `
 ##### /boot/efi/EFI/xxx/grubenv @nouveau.modeset=0|1 #rd.driver.blacklist=nouveau
 ##### yum remove $(rpm -qa | grep kernel | grep -v $(uname -r))
+##### dracut -f /boot/initramfs-$(uname -r).img $(uname -r) #Create new initramfs image
 
 ---
 
