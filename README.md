@@ -395,8 +395,9 @@
 ##### `yum install libvirt-client @virsh net-undefine default @virsh net-destroy default`
 ##### ~/.bashrc ` @PS1="\[\e[1;32m\][\A \[\e[1;33m\]\u\[\e[35m\]@\h\[\e[1;31m\] \W\[\e[1;32m\]]\[\e[0m\]\\$ " `
 ##### /root/.bashrc ` @PS1="\[\e[31;1m\][\[\e[32;1m\]\u\[\e[33;1m\]@\[\e[35;1m\]\h\[\e[36;1m\]:\[\e[32;1m\]\W\[\e[31;1m\]]\[\e[33;1m\]\$ \[\e[0m\]" `
-##### /etc/default/grub @GRUB_CMDLINE_LINUX > nouveau.modeset=0|1 #rd.driver.blacklist=nouveau
+##### /boot/efi/EFI/xxx/grubenv @nouveau.modeset=0|1 #rd.driver.blacklist=nouveau
 ##### yum remove $(rpm -qa | grep kernel | grep -v $(uname -r))
+
 ---
 
 ## /etc/hosts
