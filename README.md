@@ -12,22 +12,18 @@
  [` @kernel.org `](https://www.kernel.org/)
  [` @wolframalpha `](https://www.wolframalpha.com/)
  [` @git-scm `](https://git-scm.com/)
- [` @cdn-linux-kernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/)
- 
+ [` @cdn-linux-kernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/) `###`
  [` @md5hashing `](https://md5hashing.net/)
  [` @md5calc `](https://md5calc.com/)
  [` @freedesktop `](https://people.freedesktop.org/)
  [` @ventoy `](https://www.ventoy.net/en/index.html) ` # New Bootable USB Solution `
  [` @cdimage-debian `](https://cdimage.debian.org/images/) ` # debian release || unofficial `
  [` @gstreamer `](https://gstreamer.freedesktop.org/)
- [` @ibus-libpinyin `](https://github.com/libpinyin/ibus-libpinyin) ` # ibus-libpinyin ibus-table-wubi `
- 
- [` @realtek-network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software `](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software) ` # lspci -v `
- 
+ [` @ibus-libpinyin `](https://github.com/libpinyin/ibus-libpinyin) ` # ibus-libpinyin ibus-table-wubi ` `###`
+ [` @realtek-network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software `](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software) ` # lspci -v ` `###`
  ` @ TkIySEk0RFRISVhTNlkzT0ZaV1hHMkpPTU5YVzJMMk5ONTJHUVpMU01KWFdDNFRFRjVCREtOUlFKVVdVRVQyTklKQ1ZFTDNUT1ZZSApBMzNTT1FGQT09PT0K `
  ` @ TkIySEk0QjJGNFhXTTJUSk9OMlM0NURQT0FYUVU9PT0K ` ` @ TkIySEk0RFRISVhTNjUzVk9GVVdDM1RETjRYSFE2TDJGNEZBPT09PQo= `
- ` @ TkIySEk0RFRISVhTNjJETEZaV1hHMkpPTU5YVzJMMk5ONTJHUVpMU01KWFdDNFRFRjVCREtOUlFKVVdVRVQyTklKQ1ZFTDNUT1ZZSApBMzNTT1FGQT09PT0K `
- 
+ ` @ TkIySEk0RFRISVhTNjJETEZaV1hHMkpPTU5YVzJMMk5ONTJHUVpMU01KWFdDNFRFRjVCREtOUlFKVVdVRVQyTklKQ1ZFTDNUT1ZZSApBMzNTT1FGQT09PT0K ` `###`
  [` @breed-hackpascal `](https://breed.hackpascal.net/)
  [` @all-linux-mirrors `](http://mirrors.ustc.edu.cn/help/)
  [` @debian-security `](https://www.debian.org/security/)
@@ -35,8 +31,7 @@
  [` @gnu-grub `](https://ftp.gnu.org/gnu/)
  [` @tracker-debian-kernel `](https://tracker.debian.org/pkg/linux)
  [` @virtualbox `](https://download.virtualbox.org/virtualbox/)
- [` @kali-tools `](https://www.kali.org/tools/)
- 
+ [` @kali-tools `](https://www.kali.org/tools/)`###`
  [` @stream-centos `](http://mirror.stream.centos.org/)
  [` @packages-for-linux-and-unix `](https://pkgs.org/)
  [` @google-crx `](https://crxdl.com/)
