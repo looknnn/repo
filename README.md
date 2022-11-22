@@ -360,16 +360,13 @@
     
     vim vim-gtk vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk traceroute locate  mtr \
     fcitx fcitx-table-compose fcitx-googlepinyin fcitx-dbus-status fcitx-table-wubi fcitx-table-wubi-large \
-    wget bash-completion bash-static bash-builtins \
-    basex basez base58 obs-studio \
-    gnome-shell-extension-dashtodock \
+    wget bash-completion bash-static bash-builtins basex basez base58 obs-studio gnome-shell-extension-dashtodock \
     libpam-tmpdir opendnssec
  
 ##### yum install
     
     epel-next-release afftools pavucontrol simplescreenrecorder gcc-c++ cmake bison ncurses libaio \
-    gnome-shell-extension-dash-to-dock.noarch \
-    gnome-shell-extension-apps-menu.noarch \
+    gnome-shell-extension-dash-to-dock.noarch gnome-shell-extension-apps-menu.noarch \
     fastfetch-bash-completion.noarch im-chooser.x86_64
 
 ##### yum groupinstall "Server with GUI" ` @systemctl set-default graphical.target `
