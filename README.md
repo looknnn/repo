@@ -21,7 +21,7 @@
  [` @gstreamer `](https://gstreamer.freedesktop.org/)
  [` @ibus-libpinyin `](https://github.com/libpinyin/ibus-libpinyin) ` # ibus-libpinyin ibus-table-wubi ` `###`
  [` @realtek-network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software `](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software) ` # lspci -v ` `###`
- ` @ TkIySEk0RFRISVhTNlkzT0ZaV1hHMkpPTU5YVzJMMk5ONTJHUVpMU01KWFdDNFRFRjVCREtOUlFKVVdVRVQyTklKQ1ZFTDNUT1ZZSApBMzNTT1FGQT09PT0K `
+ ` @ TlZaV1NZM09GWlJXNjNKT01OWEM2VExQT1JVR0s0VENONVFYRVpCUElJMlRNTUNORlZCRTZUS0NJVkpDNjQzVk9CWUc2NFRVQkk9PQo9PT09Cg `
  ` @ TkIySEk0QjJGNFhXTTJUSk9OMlM0NURQT0FYUVU9PT0K ` ` @ TkIySEk0RFRISVhTNjUzVk9GVVdDM1RETjRYSFE2TDJGNEZBPT09PQo= `
  ` @ TkIySEk0RFRISVhTNjJETEZaV1hHMkpPTU5YVzJMMk5ONTJHUVpMU01KWFdDNFRFRjVCREtOUlFKVVdVRVQyTklKQ1ZFTDNUT1ZZSApBMzNTT1FGQT09PT0K ` `###`
  [` @breed-hackpascal `](https://breed.hackpascal.net/)
