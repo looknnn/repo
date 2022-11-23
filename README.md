@@ -41,10 +41,11 @@
  [` @freebsd `](https://www.freebsd.org/)
  [` @c++Reference `](https://cppreference.com/)
  [` @rarlab `](https://www.rarlab.com/)
+ [` @flatpak `](https://flatpak.org/setup/)
 
 ---
 
-## Github | Gitlab >> ssh.key & gpg.key
+## Github | Gitlab > ssh.key & gpg.key
 
 ##### git config --global user. ``` # set.user..... ```
     
