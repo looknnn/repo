@@ -335,7 +335,7 @@
 
 ## Journal 
 
-##### ~/.vimrc ` >> set lines=25 columns=115 ` ` # gvim `
+##### ~/.gvimrc ` >> set lines=25 columns=115 ` ` # gvim `
 ##### /usr/share/vim/vimrc || ` @/etc/vimrc #centos `
      
     set showmatch
