@@ -42,6 +42,7 @@
  [` @c++Reference `](https://cppreference.com/)
  [` @rarlab `](https://www.rarlab.com/)
  [` @flatpak `](https://flatpak.org/setup/)
+ [` @vim `](https://ftp.nluug.nl/pub/vim/unix/)
 
 ---
 
