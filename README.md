@@ -36,13 +36,14 @@
  [` @packages-for-linux-and-unix `](https://pkgs.org/)
  [` @google-crx `](https://crxdl.com/)
  [` @rocky `](https://dl.rockylinux.org/pub/rocky/)
- [` @alma `](https://almalinux.org/)
+ [` @alma `](https://almalinux.org/) `###`
  [` @distrowatch `](https://distrowatch.com/)
  [` @freebsd `](https://www.freebsd.org/)
  [` @c++Reference `](https://cppreference.com/)
  [` @rarlab `](https://www.rarlab.com/)
  [` @flatpak `](https://flatpak.org/setup/)
  [` @vim `](https://ftp.nluug.nl/pub/vim/unix/)
+ [` @gimp `](https://download.gimp.org/gimp/)
 
 ---
 
