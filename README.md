@@ -370,7 +370,7 @@
     
     epel-next-release afftools pavucontrol simplescreenrecorder gcc-c++ cmake bison ncurses ncurses-devel libaio \
     gnome-shell-extension-dash-to-dock.noarch gnome-shell-extension-apps-menu.noarch \
-    fastfetch-bash-completion.noarch im-chooser.x86_64 xnview shotwell
+    fastfetch-bash-completion.noarch im-chooser.x86_64 xnview shotwell alsa
 
 ##### yum groupinstall "Server with GUI" ` @systemctl set-default graphical.target `
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
