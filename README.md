@@ -21,9 +21,8 @@
  [` @gstreamer `](https://gstreamer.freedesktop.org/)
  [` @ibus-libpinyin `](https://github.com/libpinyin/ibus-libpinyin) ` # ibus-libpinyin ibus-table-wubi ` `###`
  [` @realtek-network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software `](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software) ` # lspci -v ` `###`
- ` @ TlZaV1NZM09GWlJXNjNKT01OWEM2VExQT1JVR0s0VENONVFYRVpCUElJMlRNTUNORlZCRTZUS0NJVkpDNjQzVk9CWUc2NFRVQkk9PQo9PT09Cg `
+ ` @ T1ZaUzQzTFRORVhHRzMzTkY1R1c2NURJTVZaR0UzM0JPSlNDNlFSVkdZWUUyTEtRS0pIUzY0M1ZPQllHNjRUVUJJPT09PT09Cg `
  ` @ TkIySEk0QjJGNFhXTTJUSk9OMlM0NURQT0FYUVU9PT0K ` ` @ TkIySEk0RFRISVhTNjUzVk9GVVdDM1RETjRYSFE2TDJGNEZBPT09PQo= `
- ` @ TkIySEk0RFRISVhTNjJETEZaV1hHMkpPTU5YVzJMMk5ONTJHUVpMU01KWFdDNFRFRjVCREtOUlFKVVdVRVQyTklKQ1ZFTDNUT1ZZSApBMzNTT1FGQT09PT0K ` `###`
  [` @breed-hackpascal `](https://breed.hackpascal.net/)
  [` @all-linux-mirrors `](http://mirrors.ustc.edu.cn/help/)
  [` @debian-security `](https://www.debian.org/security/)
@@ -338,7 +337,7 @@
 ## Journal 
 
 ##### ~/.gvimrc ` >> set lines=25 columns=115 ` ` # gvim `
-##### /usr/share/vim/vimrc || ` @/etc/vimrc #centos `
+##### /usr/share/vim/vimrc ` @/etc/vimrc #centos `
      
     set showmatch
     set hlsearch
