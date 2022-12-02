@@ -1,48 +1,48 @@
 
 ## FreeBSD || Debian 11 Bullseye
     
-- swapfile...efi.../.boot.home.usr.var.opt.tmp ` # /etc/sysctl.conf @vm.swappiness=60  #sysctl -p `
+- swapfile...efi.../.boot.home.usr.var.opt.tmp ` # /etc/sysctl.conf @vm.swappiness=60 #sysctl -p `
 
 ---
 ## Linux Browser Google Chrome & Firefox
 
 ~~[`webcrawler`](https://www.webcrawler.com/)~~
- [` @musicenc `](https://www.musicenc.com/)
- [` @yandex `](https://yandex.com/)
- [` @kernel.org `](https://www.kernel.org/)
- [` @wolframalpha `](https://www.wolframalpha.com/)
- [` @git-scm `](https://git-scm.com/)
- [` @cdn-linux-kernal `](https://cdn.kernel.org/pub/linux/kernel/v5.x/) `###`
- [` @md5hashing `](https://md5hashing.net/)
- [` @md5calc `](https://md5calc.com/)
- [` @freedesktop `](https://people.freedesktop.org/)
- [` @ventoy `](https://www.ventoy.net/en/index.html) ` # New Bootable USB Solution `
- [` @cdimage-debian `](https://cdimage.debian.org/images/) ` # debian release || unofficial `
- [` @gstreamer `](https://gstreamer.freedesktop.org/)
- [` @ibus-libpinyin `](https://github.com/libpinyin/ibus-libpinyin) ` # ibus-libpinyin ibus-table-wubi ` `###`
- [` @realtek-network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software `](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software) ` # lspci -v ` `###`
+ [@musicenc](https://www.musicenc.com/)
+ [@yandex](https://yandex.com/)
+ [@kernel.org](https://www.kernel.org/)
+ [@wolframalpha](https://www.wolframalpha.com/)
+ [@git-scm](https://git-scm.com/)
+ [@cdn-linux-kernal](https://cdn.kernel.org/pub/linux/kernel/v5.x/) `###` 
+ [@md5hashing](https://md5hashing.net/)
+ [@md5calc](https://md5calc.com/)
+ [@freedesktop](https://people.freedesktop.org/)
+ [@ventoy](https://www.ventoy.net/en/index.html) ` # New Bootable USB Solution `
+ [@cdimage-debian](https://cdimage.debian.org/images/) ` # debian release || unofficial `
+ [@gstreamer](https://gstreamer.freedesktop.org/)
+ [@ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) ` # ibus-libpinyin ibus-table-wubi ` `###`
+ [@realtek-network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software) ` # lspci -v ` `###`
  ` @ T1ZaUzQzTFRORVhHRzMzTkY1R1c2NURJTVZaR0UzM0JPSlNDNlFSVkdZWUUyTEtRS0pIUzY0M1ZPQllHNjRUVUJJPT09PT09Cg `
  ` @ TkIySEk0QjJGNFhXTTJUSk9OMlM0NURQT0FYUVU9PT0K ` ` @ TkIySEk0RFRISVhTNjUzVk9GVVdDM1RETjRYSFE2TDJGNEZBPT09PQo= `
- [` @breed-hackpascal `](https://breed.hackpascal.net/)
- [` @all-linux-mirrors `](http://mirrors.ustc.edu.cn/help/)
- [` @debian-security `](https://www.debian.org/security/)
- [` @packages-debian `](https://packages.debian.org/)
- [` @gnu-grub `](https://ftp.gnu.org/gnu/)
- [` @tracker-debian-kernel `](https://tracker.debian.org/pkg/linux)
- [` @virtualbox `](https://download.virtualbox.org/virtualbox/)
- [` @kali-tools `](https://www.kali.org/tools/)`###`
- [` @stream-centos `](http://mirror.stream.centos.org/)
- [` @packages-for-linux-and-unix `](https://pkgs.org/)
- [` @google-crx `](https://crxdl.com/)
- [` @rocky `](https://dl.rockylinux.org/pub/rocky/)
- [` @alma `](https://almalinux.org/) `###`
- [` @distrowatch `](https://distrowatch.com/)
- [` @freebsd `](https://www.freebsd.org/)
- [` @c++Reference `](https://cppreference.com/)
- [` @rarlab `](https://www.rarlab.com/)
- [` @flatpak `](https://flatpak.org/setup/)
- [` @vim `](https://ftp.nluug.nl/pub/vim/unix/)
- [` @gimp `](https://download.gimp.org/gimp/)
+ [@breed-hackpascal](https://breed.hackpascal.net/)
+ [@all-linux-mirrors](http://mirrors.ustc.edu.cn/help/)
+ [@debian-security](https://www.debian.org/security/)
+ [@packages-debian](https://packages.debian.org/)
+ [@gnu-grub](https://ftp.gnu.org/gnu/)
+ [@tracker-debian-kernel](https://tracker.debian.org/pkg/linux)
+ [@virtualbox](https://download.virtualbox.org/virtualbox/)
+ [@kali-tools](https://www.kali.org/tools/) `###`
+ [@stream-centos](http://mirror.stream.centos.org/)
+ [@packages-for-linux-and-unix](https://pkgs.org/)
+ [@google-crx](https://crxdl.com/)
+ [@rocky](https://dl.rockylinux.org/pub/rocky/)
+ [@alma](https://almalinux.org/) `###`
+ [@distrowatc](https://distrowatch.com/)
+ [@freebsd](https://www.freebsd.org/)
+ [@c++Referenc](https://cppreference.com/)
+ [@rarla](https://www.rarlab.com/)
+ [@flatpa](https://flatpak.org/setup)
+ [@vim](https://ftp.nluug.nl/pub/vim/unix/)
+ [@gimp](https://download.gimp.org/gimp/) `###`
 
 ---
 
@@ -360,40 +360,40 @@
 
 ##### sudo apt install
     
-    vim vim-gtk vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk traceroute locate  mtr \
+    vim vim-gtk vim-lastplace kaffeine qbittorrent audacious calc wcalc git gitk traceroute locate mtr \
     fcitx fcitx-table-compose fcitx-googlepinyin fcitx-dbus-status fcitx-table-wubi fcitx-table-wubi-large \
     wget bash-completion bash-static bash-builtins basex basez base58 obs-studio gnome-shell-extension-dashtodock \
     libpam-tmpdir opendnssec
- 
+
 ##### yum install
     
     epel-next-release afftools pavucontrol simplescreenrecorder gcc-c++ cmake bison ncurses ncurses-devel libaio \
     gnome-shell-extension-dash-to-dock.noarch gnome-shell-extension-apps-menu.noarch \
     fastfetch-bash-completion.noarch im-chooser.x86_64 xnview shotwell alsa
 
-##### yum groupinstall 'Server with GUI' ` @systemctl set-default graphical.target `
+##### yum groupinstall 'Server with GUI' ` @systemctl set-default graphical.target ` 
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
 ##### dpkg -l |grep ^rc|awk '{print $2}' |sudo xargs dpkg -P
     
 ##### /usr/share/gtksourceview-4/language-specs/powershell.lang ` # gedit `
-        <property name="globs">*.ps1;*.psm1;*.psd1;*;*.*</property>
+       <property name="globs">*.ps1;*.psm1;*.psd1;*;*.*</property>
 ~~sudo dpkg-reconfigure locales~~ ` # en && zh ` ` @im-config ` ` # /etc/locale.gen >> en_GB.UFT-8 UFT-8 `
 
 ##### ` @sudo update-grub # change.kernal `
-
+    
     UEFI-based system:grub2-mkconfig -o /boot/efi/EFI/centos/grub.cfg
     Legacy system:/boot/grub2/grub.cfg
 
 ##### systemctl enable systemd-resolved.service ` # debian `
 ##### systemctl disable accounts-daemon.service avahi-daemon.service ` #centos `
-##### /etc/gdm/custom.conf  `@WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
-##### `yum install libvirt-client @virsh net-undefine default @virsh net-destroy default`
+##### /etc/gdm/custom.conf  ` @WaylandEnable=false @DefaultSession=gnome-xorg.desktop # fedora `
+##### yum install libvirt-client `@virsh net-undefine default @virsh net-destroy default`
 ##### ~/.bashrc ` @PS1="\[\e[1;32m\][\A \[\e[1;33m\]\u\[\e[35m\]@\h\[\e[1;31m\] \W\[\e[1;32m\]]\[\e[0m\]\\$ " `
 ##### /root/.bashrc ` @PS1="\[\e[31;1m\][\[\e[32;1m\]\u\[\e[33;1m\]@\[\e[35;1m\]\h\[\e[36;1m\]:\[\e[32;1m\]\W\[\e[31;1m\]]\[\e[33;1m\]\$ \[\e[0m\]" `
-##### /boot/efi/EFI/xxx/grubenv @nouveau.modeset=0|1 #rd.driver.blacklist=nouveau
+##### /boot/efi/EFI/xxx/grubenv `@nouveau.modeset=0|1 #rd.driver.blacklist=nouveau`
 ##### yum remove $(rpm -qa | grep kernel | grep -v $(uname -r))
-##### dracut -f /boot/initramfs-$(uname -r).img $(uname -r) #Create new initramfs image
+##### dracut -f /boot/initramfs-$(uname -r).img $(uname -r) `#Create new initramfs image`
 
 ---
 
@@ -467,4 +467,3 @@
     
    ```
 ---
-
