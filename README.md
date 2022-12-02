@@ -34,7 +34,7 @@
  [@stream-centos](http://mirror.stream.centos.org/)
  [@packages-for-linux-and-unix](https://pkgs.org/)
  [@google-crx](https://crxdl.com/)
- [@rocky](https://dl.rockylinux.org/pub/rocky/)
+ [@rocky](https://download.rockylinux.org/pub/rocky/)
  [@alma](https://almalinux.org/) `###`
  [@distrowatc](https://distrowatch.com/)
  [@freebsd](https://www.freebsd.org/)
